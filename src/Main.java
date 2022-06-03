@@ -1,3 +1,4 @@
+
 public class Main {
     public static void main(String[] args) {
         Twit system = new Twit();
@@ -27,7 +28,6 @@ public class Main {
         dima.add(".!.", "Fuck you!");
         dima.like(".!.");
         stas.like("Хаха. Расчет дураков окончен!");
-
         system.board();
 
     }
